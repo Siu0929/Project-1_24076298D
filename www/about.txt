@@ -1,0 +1,2 @@
+This is a plain text resource for the COMP2322 web server project.
+It can be fetched with GET and inspected with HEAD.
